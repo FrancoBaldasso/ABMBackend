@@ -28,7 +28,9 @@ INSERT INTO `departmento` (`id`,`nombre`) VALUES (4,'Ventas');
 
 # 3) Correr los siguientes comandos en la terminal dentro de la carpeta del proyecto:
 npm i
+
 npm un mysql 
+
 npm i mysql2
 
 # 3) Configurar en el archivo "db.js" los datos correspondientes a la conexión a la base de datos:
