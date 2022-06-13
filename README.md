@@ -37,7 +37,7 @@ npm i mysql2
 ![image](https://user-images.githubusercontent.com/82101541/173268509-66174a6a-076a-44de-a206-71457b97c7ca.png)
 
 # 4) En el archivo "index.js" tener en cuenta la linea 17.
-El puerto configurado aquí debe ser aquel en el que se corra la aplicación.
+El puerto configurado aquí debe ser aquel en el que se corra la aplicación react del frontend.
 ![image](https://user-images.githubusercontent.com/82101541/173269057-65a91ca8-2f09-4a00-9659-dcaa53b14613.png)
 
 
