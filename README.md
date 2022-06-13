@@ -33,6 +33,8 @@ npm un mysql
 
 npm i mysql2
 
+npm i cors
+
 # 3) Configurar en el archivo "db.js" los datos correspondientes a la conexión a la base de datos:
 ![image](https://user-images.githubusercontent.com/82101541/173268509-66174a6a-076a-44de-a206-71457b97c7ca.png)
 
